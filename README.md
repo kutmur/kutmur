@@ -1,16 +1,39 @@
-## Hi there 👋
+# 💻 Hey there, I'm Expert07! 👋
 
-<!--
-**EXPERT2007/EXPERT2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI & Machine Learning Student | Problem Solver**  
+📍 Coding my journey through AI, ML, and LeetCode.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: Python, C#, C++, JavaScript
+- 🧠 AI/ML: TensorFlow, PyTorch, Scikit-learn
+- 🛸 Tools: Visual Studio, Docker, .NET
+- 💾 OS: Ubuntu, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 LeetCode Solutions Repository
+- 🧩 Check out my solutions: [LeetCode Solutions](https://github.com/EXPERT2007/leetcode-solutions)
+
+## 🧩 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/expert07?theme=dark&ext=contest)](https://leetcode.com/u/expert07/)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=EXPERT2007&theme=radical&margin-w=15&margin-h=15)
+
+## 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXPERT2007&theme=radical)
+
+## 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EXPERT2007&theme=radical)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXPERT2007&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EXPERT2007&layout=compact&theme=radical)
+
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=EXPERT2007&color=blue&style=flat-square)
+
+## 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/halil-ibrahim-kutmur-bb7122332/)
+- 🐦 [X (Twitter)](https://x.com/HalilKutmur2007)
+
+---
+💡 *"To live without hope is to cease to live." – Fyodor Dostoevsky* 🌟
