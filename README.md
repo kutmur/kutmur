@@ -1,4 +1,4 @@
-# 💻 Hey there, I'm Expert07! 👋
+# 💻 Hey there, I'm Halil İbrahim! 👋
 
 🚀 **AI & Machine Learning Student | Problem Solver**  
 📍 Coding my journey through AI, ML, and LeetCode.
