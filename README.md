@@ -18,8 +18,8 @@
 ## 🧩 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/expert07?theme=dark&ext=contest)](https://leetcode.com/u/expert07/)
 
-## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EXPERT2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=EXPERT2007&color=blue&style=flat-square)
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/halil-ibrahim-kutmur-bb7122332/)
