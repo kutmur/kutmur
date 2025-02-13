@@ -17,7 +17,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=EXPERT2007&theme=radical&margin-w=15&margin-h=15)
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXPERT2007&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=EXPERT2007&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EXPERT2007&theme=radical)
