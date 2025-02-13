@@ -7,9 +7,7 @@
 </p>
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C#, C++, Bash
-- 🧠 AI/ML: TensorFlow, PyTorch, Scikit-learn
-- 🛸 Tools: Visual Studio, Docker, .NET
+- 💻 Languages: Python, C#, C++
 - 💾 OS: Ubuntu, Windows
 
 ## 🚀 LeetCode Solutions Repository
