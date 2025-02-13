@@ -4,9 +4,7 @@
 📍 Coding my journey through AI, ML, and LeetCode.
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C#, C++, JavaScript
-- 🧠 AI/ML: TensorFlow, PyTorch, Scikit-learn
-- 🛸 Tools: Visual Studio, Docker, .NET
+- 💻 Languages: Python, C#, C++
 - 💾 OS: Ubuntu, Windows
 
 ## 🚀 LeetCode Solutions Repository
