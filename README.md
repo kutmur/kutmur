@@ -14,12 +14,6 @@
 
 ---
 
-## ✨ Current Focus
-- 🛩 **VTOL Ground Control Station** — Python `tkinter` + `pymavlink` + `OpenCV` (weekly logs on LinkedIn)  
-- 📦 **Lab Inventory Manager** — Flask + SQLAlchemy, **feature‑complete; redeploy in progress**  
-- 🤝 Open to collaborating on **AI / ML / embedded** projects
-
----
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
