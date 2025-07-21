@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:halilkutmur@gmail.com" target="_blank">Email</a> •
-  <a href="https://www.linkedin.com/in/halil-ibrahim-kutmur-bb7122332/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kutmur/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/HalilKutmur07" target="_blank">X/Twitter</a> •
   <a href="https://youtube.com/@halilbrahimkutmur" target="_blank">YouTube</a>
 </p>
