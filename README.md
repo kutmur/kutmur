@@ -15,5 +15,4 @@
 | Category                 | Technologies                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------- |
 | **Core Languages**       | `Python`, `C++`, `SQL`                 |
-| **Tools & Platforms**    | `Git`,`Linux`,`MATLAB`                                |
-| **Web & Databases**      | `MySQL`, `Vector Databases`                           |****
+| **Databases**      | `MySQL`, `Vector Databases`                           |****
