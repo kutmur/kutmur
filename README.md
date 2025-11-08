@@ -14,7 +14,6 @@
 
 | Category                 | Technologies                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------- |
-| **Core Languages**       | `Python`, `C++`, `C`, `Java`, `JavaScript`, `C#`, `TypeScript`, `SQL`                 |
-| **AI & Machine Learning**| `PyTorch`, `TensorFlow`, `OpenCV`, `Numpy`, `Pandas`, `LLMOps`, `NVIDIA Jetson`         |
-| **Tools & Platforms**    | `Git`, `Docker`, `Linux`, `MATLAB`, `VS Code`, `Agile`                                  |
-| **Web & Databases**      | `React.js`, `Node.js`, `MySQL`, `MongoDB`, `Vector Databases`                           |****
+| **Core Languages**       | `Python`, `C++`, `SQL`                 |
+| **Tools & Platforms**    | `Git`,`Linux`,`MATLAB`, `VS Code`                                  |
+| **Web & Databases**      | `MySQL`, `Vector Databases`                           |****
